@@ -22,7 +22,7 @@ I enjoy **transforming ideas into solutions through programming** and understand
   <a href="https://www.linkedin.com/in/gustamoraiss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-GUSTAMORAISS-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/gustavombn">
     <img src="https://img.shields.io/badge/Instagram-@GUSTAVOMBN-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
