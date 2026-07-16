@@ -60,7 +60,6 @@ Me chamo Gustavo Morais e sou estudante de Engenharia de Software. Atualmente, e
   height="200"
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustamoraiss&layout=donut&theme=tokyonight"
   />
-  />
 </p>
 
 <br clear="both"/>
