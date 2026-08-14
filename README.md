@@ -1,66 +1,71 @@
-# Olá 👋, eu sou Gustavo Morais
+# 👋 Olá, eu sou o Gustavo!
 
-**`Desenvolvedor de Software`**
+<br />
 
-Me chamo Gustavo Morais e sou estudante de Engenharia de Software. Atualmente, estou cursando o primeiro período da graduação e busco evoluir constantemente como desenvolvedor. Sou apaixonado por tecnologia, especialmente pela área de desenvolvimento back-end, e gosto de criar projetos para colocar em prática os conhecimentos que venho adquirindo. Tenho experiência com Python, Flask, HTML, CSS e SQLite, e estou sempre aprendendo novas tecnologias para desenvolver aplicações cada vez mais completas e bem estruturadas. Aqui no GitHub, compartilho meus projetos, estudos e minha evolução como desenvolvedor.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software;Entusiasta+de+Tecnologia;Criando+solu%C3%A7%C3%B5es+incr%C3%ADveis" alt="Typing SVG" />
+</div>
 
-<p align="left">
-  
+<br />
+
+### 🚀 Sobre Mim
+
+Sou desenvolvedor focado em criar aplicações modernas, escaláveis e eficientes. Minha atuação abrange tanto o backend quanto o frontend, desenvolvendo serviços em **Python com Flask**, até interfaces reativas e dinâmicas utilizando **JavaScript** com ecossistemas modernos como **React** e **Next.js**.
+
+No dia a dia, utilizo **Git e GitHub** para versionamento de código e boas práticas de fluxo de trabalho (Git Flow), trabalhando em cenários guiados por **Metodologias Ágeis (Scrum/Kanban)** para garantir entregas contínuas e alinhadas com altos padrões de qualidade de software.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📊 Estatísticas do GitHub
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<br />
 
-<br/>
-<br/>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=gustamoraiss&theme=tokyonight" />
+  </a>
+</div>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustamoraiss&show_icons=true&theme=tokyonight"
-  />
-  <img
-  height="200"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustamoraiss&layout=donut&theme=tokyonight"
-  />
-</p>
+### 🛠️ Tecnologias e Ferramentas
 
-<br clear="both"/>
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` `Python` |
+| **Frontend** | `React` `Next.js` `HTML5` `CSS3` |
+| **Backend** | `Flask` |
+| **Banco de Dados** | `PostgreSQL` |
+| **Ferramentas** | `Git` `Linux` |
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :--- | :--- |
+| **Barbertime** | Projeto desenvolvido para agendamento de horário em barbearias. | `Python` `Flask` `HTML & CSS` | https://github.com/gustamoraiss/barbertime |
+| **Dashboard climático** | Aplicação web simples feita com Flask que consulta a temperatura, umidade e condição climática atual de qualquer cidade do mundo, usando a API da OpenWeatherMap. | `Python` `Flask` `HTML & CSS` `API` | https://github.com/gustamoraiss/dashboard-climatico |
+
+---
+
+### 📬 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://linkedin.com/in/gustamoraiss" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gustavombdn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/gustavombn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Visitantes no perfil:</sub><br />
+  <img src="https://komarev.com/ghpvc/?username=gustamoraiss&color=38BDF8&style=flat-square" alt="Contador de Visitas" />
+</div>
