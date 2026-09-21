@@ -47,6 +47,7 @@ No dia a dia, utilizo **Git e GitHub** para versionamento de código e boas prá
 | **Barbertime** | Projeto desenvolvido para agendamento de horário em barbearias. | `Python` `Flask` `HTML & CSS` | https://github.com/gustamoraiss/barbertime |
 | **Dashboard climático** | Aplicação web simples feita com Flask que consulta a temperatura, umidade e condição climática atual de qualquer cidade do mundo, usando a API da OpenWeatherMap. | `Python` `Flask` `HTML & CSS` `API` | https://github.com/gustamoraiss/dashboard-climatico |
 | **Finance tracker** | Sistema de controle financeiro pessoal desenvolvido em Flask e SQLite, com registro, categorização e visualização de receitas e despesas. | `JavaScript` `Python` `Flask` `HTML & CSS` `SQLite` | https://github.com/gustamoraiss/finance-tracker |
+| **Study assistant bot** | A study assistant bot for Telegram built in Python. The bot serves as a personal organizer, helping you keep track of exam dates, assignment deadlines, and college coursework. | `Python` `Python Telegram bot API` `json` | https://github.com/gustamoraiss/finance-tracker |
 
 ---
 
